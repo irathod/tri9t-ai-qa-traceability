@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pymupdf
+pytest
+python-dotenv
+groq
+pydantic

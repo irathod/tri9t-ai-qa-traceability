@@ -1,0 +1,955 @@
+{
+  "id": "root",
+  "heading": "ct200_manual",
+  "number": null,
+  "level": 0,
+  "parent_id": null,
+  "page_start": null,
+  "content": [
+    {
+      "text": "CardioTrack CT-200 Home Blood",
+      "page": 1,
+      "content_hash": "eb546c78c1b4f213b5a601043a6c2103de9aa1dae919f097569b3f12917bded4"
+    },
+    {
+      "text": "Pressure Monitor — Technical &",
+      "page": 1,
+      "content_hash": "02996c72241f42aae4d1250c23f775d9f2b2c9fa528382997166033fc4deea10"
+    },
+    {
+      "text": "User Manual",
+      "page": 1,
+      "content_hash": "943f7e1248b9be56587976edab004c5bb37df443bedc4eafb488b47c5d0d79bc"
+    }
+  ],
+  "children": [
+    {
+      "id": "node_1",
+      "heading": "1. Device Overview",
+      "number": "1",
+      "title": "Device Overview",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 1,
+      "content": [
+        {
+          "text": "The CardioTrack CT-200 is an oscillometric, upper-arm blood pressure",
+          "page": 1,
+          "content_hash": "efedd742fee5c30e48695eb9536b91c853f3b0937937ec624ee64f733a3ffdc7"
+        },
+        {
+          "text": "monitor intended for home use by adult users. It measures systolic",
+          "page": 1,
+          "content_hash": "60c2bde1fce30253a386fe4264758150f647c61e7fb443fe66e5a12187da30ef"
+        },
+        {
+          "text": "pressure, diastolic pressure, and pulse rate, and stores up to 200",
+          "page": 1,
+          "content_hash": "d729d91cb7fa50cc42e1e3307bc5d090814280d25b169b2851142789c0af624a"
+        },
+        {
+          "text": "readings across two user profiles.",
+          "page": 1,
+          "content_hash": "4ac2c47d9b9d85d1b0230f38808aaf1aa349f703cc16f86cce57c2c3db91961b"
+        }
+      ],
+      "children": [
+        {
+          "id": "node_2",
+          "heading": "1.1 Intended Use",
+          "number": "1.1",
+          "title": "Intended Use",
+          "level": 2,
+          "parent_id": "node_1",
+          "page_start": 1,
+          "content": [
+            {
+              "text": "The CT-200 is intended to non-invasively measure blood pressure and",
+              "page": 1,
+              "content_hash": "2a849837234a8f9a8628649f6f61130c9b2df14e235968dd1a9a4962c686856f"
+            },
+            {
+              "text": "pulse rate in adults with an arm circumference of 22–42 cm. It is not",
+              "page": 1,
+              "content_hash": "27fa9b6f27060c292d49593fed063ec7a398cae239d1865a0d787cf9d37883ed"
+            },
+            {
+              "text": "intended for use on neonates, infants, or pregnant users, and is not a",
+              "page": 1,
+              "content_hash": "e698c4fd978788811e63c380f4a0b3a8c33568ceca50c7ce6f87a95d066bcb96"
+            },
+            {
+              "text": "diagnostic device — readings should be interpreted by a qualified",
+              "page": 1,
+              "content_hash": "c94dc74c396a28c1123e2ae726247cc0e55b5056f970b385e8de8aec621b7a2c"
+            },
+            {
+              "text": "clinician.",
+              "page": 1,
+              "content_hash": "7602a0fdd5adbd280763932408f906f2a77afaf66246d6b8b255389310af4ccd"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_3",
+          "heading": "1.2 Indications and Contraindications",
+          "number": "1.2",
+          "title": "Indications and Contraindications",
+          "level": 2,
+          "parent_id": "node_1",
+          "page_start": 1,
+          "content": [
+            {
+              "text": "The device should not be used on the arm ipsilateral to a mastectomy,",
+              "page": 1,
+              "content_hash": "e38d25cafa6be331681e7948987d23f0590aadb3ea6eccd0b79d20d2a94d57cf"
+            },
+            {
+              "text": "on limbs with an active intravenous line, or on users with severe",
+              "page": 1,
+              "content_hash": "f63727c84ac6914cd5ed15a3feea258318cb9148c8769ac44f8a4a42c85b5389"
+            },
+            {
+              "text": "arrhythmia without clinician guidance, since oscillometric measurement",
+              "page": 1,
+              "content_hash": "9b9725ba5c8ab2c9dfff7a240692fa23b4153f53465ee6cd3fa4df6bfbd624dc"
+            },
+            {
+              "text": "can be unreliable in these cases.",
+              "page": 1,
+              "content_hash": "f1fb7b091af1824c2b32e8aba8774fe8a7cf2ceb52973f05695a7f4e6d9866b0"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_4",
+      "heading": "2. Physical and Electrical Specifications",
+      "number": "2",
+      "title": "Physical and Electrical Specifications",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 1,
+      "content": [],
+      "children": [
+        {
+          "id": "node_5",
+          "heading": "2.1 General Specifications",
+          "number": "2.1",
+          "title": "General Specifications",
+          "level": 2,
+          "parent_id": "node_4",
+          "page_start": 2,
+          "content": [
+            {
+              "text": "Parameter",
+              "page": 2,
+              "content_hash": "dd066ec1bf1d4485d3597f93a32c2f64b88ccdb6c555428ac4af3d17bf691cc2"
+            },
+            {
+              "text": "Value",
+              "page": 2,
+              "content_hash": "8e37953d23daca5ff01b8282c33f4e0a2152f1d1885f94c06418617e3ee1d24e"
+            },
+            {
+              "text": "Measurement method",
+              "page": 2,
+              "content_hash": "41c4c4708a4d3d75ce2a73b5cfdd6dbd09a9e1fde98f04024e14caf026890c07"
+            },
+            {
+              "text": "Oscillometric",
+              "page": 2,
+              "content_hash": "3c9c5016e3c9ba3f83840dcb6acc6b138242967f60340f181490ae0900160887"
+            },
+            {
+              "text": "Pressure range",
+              "page": 2,
+              "content_hash": "5a86051230994fcc07f32c3150483f45edb0ec255fb727c91d980abc3438a75c"
+            },
+            {
+              "text": "0–299 mmHg",
+              "page": 2,
+              "content_hash": "1f4a9fb8740f034c7b42547b88e4c67ab9d58303d7a42813104254d29e7b75d8"
+            },
+            {
+              "text": "Pulse range",
+              "page": 2,
+              "content_hash": "6c2909dbb5148b520cd123e92e3e336d2a266f6cc624df918fd40249114ec192"
+            },
+            {
+              "text": "40–199 bpm",
+              "page": 2,
+              "content_hash": "66aaaf07686b1b92a68d34d7d854a5b67d4114c0b09fb8af2cac3d436391ea87"
+            },
+            {
+              "text": "Accuracy (pressure)",
+              "page": 2,
+              "content_hash": "10226dea5a3a2dc6c7ab5747baa2319ce6263538a4d8ce461e76f93b406d2d2c"
+            },
+            {
+              "text": "±3 mmHg",
+              "page": 2,
+              "content_hash": "5394a768effc7571bc07721af180bcf2341dda0db0a5a8554b3ff05eef9cf324"
+            },
+            {
+              "text": "Accuracy (pulse)",
+              "page": 2,
+              "content_hash": "10f1dbb1d62ea6cbc65fa21c93ac5567c85594774360ecf8159f3b8c0c2e1da2"
+            },
+            {
+              "text": "±5%",
+              "page": 2,
+              "content_hash": "dc1d4be746ac39f1285dc3c4de206955e6f8b2aa7e9876ed498de741cb507728"
+            },
+            {
+              "text": "Power source",
+              "page": 2,
+              "content_hash": "8041c50f3e93090e0d5c69d9d4e778517c4e329479a0766faf64f952baf7fddc"
+            },
+            {
+              "text": "4x AA batteries or 6V DC adapter",
+              "page": 2,
+              "content_hash": "befe0572a34db26765a7c40bd858186a6f9efbce993e15b472605a05515aee6f"
+            },
+            {
+              "text": "Display",
+              "page": 2,
+              "content_hash": "34e108c0896d0158ca4f2797d4f12a143943803be2151aa5d2136ea1bcd9a468"
+            },
+            {
+              "text": "Backlit LCD",
+              "page": 2,
+              "content_hash": "10ba76822d5ba7c65d9e11b6592903ec7f12a6668235545926cff6bc48d65e25"
+            }
+          ],
+          "children": [
+            {
+              "id": "node_6",
+              "heading": "2.1.1.1 Battery Life Under Typical Use",
+              "number": "2.1.1.1",
+              "title": "Battery Life Under Typical Use",
+              "level": 4,
+              "parent_id": "node_5",
+              "page_start": 2,
+              "content": [
+                {
+                  "text": "Under typical use (three measurements per day), four AA alkaline",
+                  "page": 2,
+                  "content_hash": "93a6f9c5e778889c6f9f890ff55b5e103c4fe9e2d1e907fe893ac7c531c79e6c"
+                },
+                {
+                  "text": "batteries provide approximately 300 measurement cycles before",
+                  "page": 2,
+                  "content_hash": "a0d3e439599d35d55d23887484d3b6164805da28e4354995c5b49be6170d92a7"
+                },
+                {
+                  "text": "requiring replacement. The device displays a low‐battery icon once",
+                  "page": 2,
+                  "content_hash": "b98e0d40ee464385df17116b7db5a4c79cf608c4fa273f8c1d40e691e7ff60cd"
+                },
+                {
+                  "text": "remaining capacity falls below 15%.",
+                  "page": 2,
+                  "content_hash": "d26a9b265496da69879131009e3482af0a2a29a17c29ada0e0fbf584ac34d684"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "node_7",
+          "heading": "2.2 Cuff Specifications",
+          "number": "2.2",
+          "title": "Cuff Specifications",
+          "level": 2,
+          "parent_id": "node_4",
+          "page_start": 2,
+          "content": [
+            {
+              "text": "The standard cuff supplied with the CT‐200 fits arm circumferences of",
+              "page": 2,
+              "content_hash": "af8042e1a89fd19ad10e91d9bfc2e49fc3dc0e663b0c6e6a948c7426e5a191e4"
+            },
+            {
+              "text": "22–32 cm. A separate large cuff (part number CT200‐LC) is available for",
+              "page": 2,
+              "content_hash": "f06bf318c22e1b83dbfdd0bd7f7024830022b6aaf778453fb4bbad9ca075cbf4"
+            },
+            {
+              "text": "32–42 cm and must be ordered separately; using the standard cuff",
+              "page": 2,
+              "content_hash": "63092fcb7ef2cd6338301e23cc8c563e68eccacb21bd13f0e2c9ab58e52fcede"
+            },
+            {
+              "text": "outside its rated range will produce inaccurate readings.",
+              "page": 2,
+              "content_hash": "7759678a8a4aa36e09a202ddcdb20d1a87ecfc15cae4a47db8592647041aa47d"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_8",
+      "heading": "3. Device Operation",
+      "number": "3",
+      "title": "Device Operation",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 2,
+      "content": [],
+      "children": [
+        {
+          "id": "node_9",
+          "heading": "3.1 Powering On and Profile Selection",
+          "number": "3.1",
+          "title": "Powering On and Profile Selection",
+          "level": 2,
+          "parent_id": "node_8",
+          "page_start": 2,
+          "content": [
+            {
+              "text": "Press and hold the power button for one second to power on the device.",
+              "page": 2,
+              "content_hash": "f9c4a4f5052d080d10d72e5aa982f4af2c48acc40014e72a44a6b622cfd3279a"
+            },
+            {
+              "text": "Use the profile button to select User 1 or User 2 before beginning a",
+              "page": 3,
+              "content_hash": "6b4f5bc14fafc7ab96b0289f68e6b1a84a70d26606901c258832817ddb5369b5"
+            },
+            {
+              "text": "measurement; readings are stored against whichever profile is active at",
+              "page": 3,
+              "content_hash": "758ccfa901bd931818dcd16ec0c525a2399ef549cc4d9863b6823a483f7d3b5f"
+            },
+            {
+              "text": "the time of measurement.",
+              "page": 3,
+              "content_hash": "ef123a574818439d63fe692883fba337cd42669ecf83cd4865c7895d4e048954"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_10",
+          "heading": "3.2 Cuff Inflation Sequence",
+          "number": "3.2",
+          "title": "Cuff Inflation Sequence",
+          "level": 2,
+          "parent_id": "node_8",
+          "page_start": 3,
+          "content": [
+            {
+              "text": "On starting a measurement, the device inflates the cuff to an initial target",
+              "page": 3,
+              "content_hash": "0ab518d34aca690621d3d3f0e375d44225c2db089874ec9bf25fe864ff5507a5"
+            },
+            {
+              "text": "of 180 mmHg. If the user's pulse is not detected by 180 mmHg, the",
+              "page": 3,
+              "content_hash": "093dfb50f7394f5630b68dd43f1899629c4f5a3984449919fa24739202c7fc11"
+            },
+            {
+              "text": "device inflates in 40 mmHg increments up to a maximum of 299 mmHg",
+              "page": 3,
+              "content_hash": "e444cfa8da1527f0a4a0c7afe25b15b9279c2b50ba54c5ad6e5ba8ca17522cc9"
+            },
+            {
+              "text": "before aborting with an error. Deflation occurs in controlled steps of",
+              "page": 3,
+              "content_hash": "73b80f449d6fbb8c0658fca306b9944ebd22cb9e17a36c54f954feff564148c6"
+            },
+            {
+              "text": "approximately 3 mmHg to capture oscillometric pulse data.",
+              "page": 3,
+              "content_hash": "22754c0c911a3ce748b44622f900e41b1f8519448d787cf55222aafe96ddfc1f"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_11",
+          "heading": "3.4 Auto Shutoff",
+          "number": "3.4",
+          "title": "Auto Shutoff",
+          "level": 2,
+          "parent_id": "node_8",
+          "page_start": 3,
+          "content": [
+            {
+              "text": "To conserve battery, the CT‐200 automatically powers off after 60",
+              "page": 3,
+              "content_hash": "efcc7b85418d8041e20a5b01d07dd9e9320ec983fccd3c5165d515baba60e2a0"
+            },
+            {
+              "text": "seconds of inactivity on the home screen, and after 3 minutes of",
+              "page": 3,
+              "content_hash": "f34696710d6985a0f73244d16b00bdb05f71b849dd3841d9019e86f3672f1e01"
+            },
+            {
+              "text": "inactivity if a measurement screen is left open without starting a reading.",
+              "page": 3,
+              "content_hash": "1ca006a3a21b6070dd7c72d2cbc530891f0985d002802131d59bf5993ba8acf3"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_12",
+          "heading": "3.3 Result Display and Classification",
+          "number": "3.3",
+          "title": "Result Display and Classification",
+          "level": 2,
+          "parent_id": "node_8",
+          "page_start": 3,
+          "content": [
+            {
+              "text": "After a completed measurement, the device displays systolic pressure,",
+              "page": 3,
+              "content_hash": "0171b9b24736b71aada2baf865086307fca199448ce12a5f844ca39ce3e602aa"
+            },
+            {
+              "text": "diastolic pressure, and pulse rate simultaneously, along with a",
+              "page": 3,
+              "content_hash": "a2564e22cab03b5d5818545cc3ffb7a4d08095a75c0c8d761c5ef7d9a9dea88a"
+            },
+            {
+              "text": "classification indicator (see 2.1, 4.3 for related specifications and alarm",
+              "page": 3,
+              "content_hash": "518953934b86d59d6eb27dd21fa11e51c696478f2a2ce90a5d0c7e3bb10aaf3f"
+            },
+            {
+              "text": "thresholds) based on the most recent joint clinical guidance available at",
+              "page": 3,
+              "content_hash": "0ae4afeb27b45d7a4c58757a899fbb1bb821a18611ed33f780c231ea6053a42b"
+            },
+            {
+              "text": "time of manufacture.",
+              "page": 3,
+              "content_hash": "77867e95dbc2a59f4a6e486d3ad9be28119d4ba4f9ae8a0f25e80c86b55af294"
+            },
+            {
+              "text": "1. Normal: systolic < 120 and diastolic < 80",
+              "page": 3,
+              "content_hash": "ebcd0d8a1ded07b7b6458e72d6996f3d5e880a09509e44ce26006fd0127b2871"
+            },
+            {
+              "text": "2. Elevated: systolic 120–129 and diastolic < 80",
+              "page": 3,
+              "content_hash": "0f9fc7d69fe360831e59c2ea30dd5ea1dfc83be31981765272d7728425abc16b"
+            },
+            {
+              "text": "3. Hypertension Stage 1: systolic 130–139 or diastolic 80–89",
+              "page": 3,
+              "content_hash": "2dda38feffc04c1babc5d47265516b649efa593c047e8ad6ee0f844c7a578110"
+            },
+            {
+              "text": "4. Hypertension Stage 2: systolic ≥ 140 or diastolic ≥ 90",
+              "page": 3,
+              "content_hash": "401bb616585766aab433040f1875d73166e1dbb99abafd47c6735a09684aa748"
+            },
+            {
+              "text": "5. Hypertensive Crisis: systolic > 180 or diastolic > 120 — device",
+              "page": 3,
+              "content_hash": "745775316c9dc6768f82583efe6cd96ad4ea63f48be76ee97b13553cdc0aa88f"
+            },
+            {
+              "text": "recommends seeking immediate medical attention",
+              "page": 3,
+              "content_hash": "c792658cc7b8cdf6f2662fca2697d8c85fa122bad5bfe3291ea328cb7e58ddc5"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_13",
+      "heading": "4. Alarms and Safety Behavior",
+      "number": "4",
+      "title": "Alarms and Safety Behavior",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 3,
+      "content": [],
+      "children": [
+        {
+          "id": "node_14",
+          "heading": "4.1 Overpressure Protection",
+          "number": "4.1",
+          "title": "Overpressure Protection",
+          "level": 2,
+          "parent_id": "node_13",
+          "page_start": 4,
+          "content": [
+            {
+              "text": "If cuff pressure exceeds 299 mmHg at any point, or exceeds 300 mmHg",
+              "page": 4,
+              "content_hash": "a13694babbed0b7e58cc7f0906832ba573f83486f6d478272bfc0aaa78a8c09a"
+            },
+            {
+              "text": "for longer than 3 seconds due to sensor fault, the device immediately",
+              "page": 4,
+              "content_hash": "f1260960eebceeb8f82be98ccb9c92fdd45fc1799885e893f74dcaf85548f5a7"
+            },
+            {
+              "text": "triggers an emergency deflation valve, halting inflation and venting the",
+              "page": 4,
+              "content_hash": "360f7a9d898d7e64c96f598351763948456a3da54cd3b719fe2b6162abbc4cff"
+            },
+            {
+              "text": "cuff within 2 seconds, independent of the main firmware control loop.",
+              "page": 4,
+              "content_hash": "2d3e11edbe48d9e4259dbfc54ede45ebea2a6f3fbc1aefaa3120db34d3065636"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_15",
+          "heading": "4.2 Error Codes",
+          "number": "4.2",
+          "title": "Error Codes",
+          "level": 2,
+          "parent_id": "node_13",
+          "page_start": 4,
+          "content": [
+            {
+              "text": "Code",
+              "page": 4,
+              "content_hash": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5"
+            },
+            {
+              "text": "Meaning",
+              "page": 4,
+              "content_hash": "1f5d64b92820f8238635b90ae69a38c12661a7b03c6d0d7f689711f12af7b7f9"
+            },
+            {
+              "text": "Device Behavior",
+              "page": 4,
+              "content_hash": "20a8094037d4047af127c0a3c021a3c139f626e97b82c1d29fd0c2ae07eadf87"
+            },
+            {
+              "text": "Aborts measurement, displays E1",
+              "page": 4,
+              "content_hash": "9945ec7886fdbc5cd04608b2ec671bed2d80e628ed95ec20ca84019c8e2dcc03"
+            },
+            {
+              "text": "E1",
+              "page": 4,
+              "content_hash": "22249aa61fd2594e50910aa574afbb977f9df8f7377e6f02e19c72245d899ad8"
+            },
+            {
+              "text": "Cuff not connected or",
+              "page": 4,
+              "content_hash": "e44394e0a19ec6fd64401e4855ab31f82536311c40f0f43bd5139410dd4fb9d7"
+            },
+            {
+              "text": "leak detected",
+              "page": 4,
+              "content_hash": "74135638cea6a1ab2db79a7cd25ea47b0deecf113dc8e5183e90ffd5124dbab6"
+            },
+            {
+              "text": "E2",
+              "page": 4,
+              "content_hash": "713a5bb2d170c8684937ab1dd0311be88e0d95fbd9b253333965841517794f64"
+            },
+            {
+              "text": "Motion artifact detected",
+              "page": 4,
+              "content_hash": "4b088cdc7a694cf8051fac9fce41a5246f19532ee750ec07d54c5e01f27801d7"
+            },
+            {
+              "text": "during measurement",
+              "page": 4,
+              "content_hash": "2ee3557fe4608fe680fc1349a6427c6b937edb89d39db9b9044ad9bdda32423e"
+            },
+            {
+              "text": "Aborts measurement, displays",
+              "page": 4,
+              "content_hash": "83b9be5a547230a0467e65931cea35840660f82cbdd6f916c2d567a19a8474be"
+            },
+            {
+              "text": "E2, prompts retry",
+              "page": 4,
+              "content_hash": "059d778d1a55b775c91b2ef9d436181c2bb56303d7be65d1f7ea1060db7458b1"
+            },
+            {
+              "text": "E3",
+              "page": 4,
+              "content_hash": "183499aaeec2b9ca37bd647ae892902fd61b9a1dd8867a54287fd2c19ee97ed7"
+            },
+            {
+              "text": "Overpressure condition",
+              "page": 4,
+              "content_hash": "e9f4bd499ac12690c6dc1d45fc965b98dddadd28a12fa92fd352126cdf72c4a0"
+            },
+            {
+              "text": "Auto-deflates within 2 seconds,",
+              "page": 4,
+              "content_hash": "4712807de9436b88d24c4d70266df248f564102ad5e8a04e55910d0dcefe00c3"
+            },
+            {
+              "text": "displays E3",
+              "page": 4,
+              "content_hash": "18476fe4126f69baf7ef624419e227b08723153a139e4839efcfafe873f2d0d0"
+            },
+            {
+              "text": "Aborts measurement, displays E4",
+              "page": 4,
+              "content_hash": "b980743b1492f62b54698997f3c3dbfb232feae7e38a0dd78bdf1b3958e70400"
+            },
+            {
+              "text": "E4",
+              "page": 4,
+              "content_hash": "de793ba19330c40e4999ec96737972345b49f02f8189ef581ee32c95e422b473"
+            },
+            {
+              "text": "Low battery during",
+              "page": 4,
+              "content_hash": "b71e3d0095f74b61e8af8c36d097741143895241f87eecd51d0cb165bc528ed3"
+            },
+            {
+              "text": "measurement",
+              "page": 4,
+              "content_hash": "6c5a6990038d66c5ecddf6c983345ed18acc416e188ff1476e3cd7201699aaed"
+            },
+            {
+              "text": "E5",
+              "page": 4,
+              "content_hash": "ef099fcece6eeca3777d0d4a6ac606beb557e08dcd95cf93d0d42a0334329c10"
+            },
+            {
+              "text": "Internal sensor fault",
+              "page": 4,
+              "content_hash": "697fcf3422e48095c30953ea6047bd2cc32ee9e2fc3de307f24e4195001ab55c"
+            },
+            {
+              "text": "Device disables measurement",
+              "page": 4,
+              "content_hash": "5011f34a3a8b8cccd753eb92bb62acac81869baad960835c575367ad80059b4f"
+            },
+            {
+              "text": "function, displays E5 until",
+              "page": 4,
+              "content_hash": "976826ce5d0191c42d52a07fc26891c402079c5fe660f5d3510e3bf0f1313fea"
+            },
+            {
+              "text": "serviced",
+              "page": 4,
+              "content_hash": "fd1d879e70068b62afd3c01a31e35519b807b9869ebfd0ac22db6ebb599cea19"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_16",
+          "heading": "4.3 Alarm Thresholds",
+          "number": "4.3",
+          "title": "Alarm Thresholds",
+          "level": 2,
+          "parent_id": "node_13",
+          "page_start": 4,
+          "content": [
+            {
+              "text": "The device does not sound an audible alarm for elevated readings by",
+              "page": 4,
+              "content_hash": "bfca331bae08b75adcaf839329484273bd22e135d44eae45bb5610e3bd96cee7"
+            },
+            {
+              "text": "default; audible alarms are limited to the E1–E5 error conditions above",
+              "page": 4,
+              "content_hash": "90d80714f23a85f81a9cc258808f6f2923a80c284c0b21cfc865b128933b5be8"
+            },
+            {
+              "text": "and are user‐configurable in the settings menu, except for E3",
+              "page": 4,
+              "content_hash": "48094bf7d4f62a7786c5a0091ed66aa1a326043ead84c77531f2952880cf1cd8"
+            },
+            {
+              "text": "(overpressure), which cannot be silenced for safety reasons.",
+              "page": 4,
+              "content_hash": "9c247fb2b6a290cee444fc8876c251f9b8752d273348426f66503f4fe65f4d1c"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_17",
+      "heading": "5. Data Management",
+      "number": "5",
+      "title": "Data Management",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 4,
+      "content": [],
+      "children": [
+        {
+          "id": "node_18",
+          "heading": "5.1 Local Storage",
+          "number": "5.1",
+          "title": "Local Storage",
+          "level": 2,
+          "parent_id": "node_17",
+          "page_start": 5,
+          "content": [
+            {
+              "text": "The CT‐200 stores up to 100 readings per user profile in non‐volatile",
+              "page": 5,
+              "content_hash": "6953b40cc94daf22bbd4538f02bb34250c47bddc84cee3da92e523d320e6b571"
+            },
+            {
+              "text": "memory. When storage is full, the oldest reading for that profile is",
+              "page": 5,
+              "content_hash": "a18e14185dcb5b39db765b0ccd297ea0473d12fdf0fb759735a7f854f4adcf8f"
+            },
+            {
+              "text": "overwritten automatically; there is no user‐facing warning before this",
+              "page": 5,
+              "content_hash": "95e356b576820c6afd0712dc019edd46773825bca75c9b1bfdcaf2f3d7ef55b3"
+            },
+            {
+              "text": "occurs.",
+              "page": 5,
+              "content_hash": "4c702a94dc868ee298c3b9e0eb15936fc84e661f5be872a6dfd261e8c4fc5d1d"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_19",
+          "heading": "5.2 Bluetooth Sync",
+          "number": "5.2",
+          "title": "Bluetooth Sync",
+          "level": 2,
+          "parent_id": "node_17",
+          "page_start": 5,
+          "content": [
+            {
+              "text": "The device can pair with the CardioTrack companion app via Bluetooth",
+              "page": 5,
+              "content_hash": "a78752e5985475542f18636e59896fb4f575a1183e9dbe8b90ecfe2fd784089a"
+            },
+            {
+              "text": "Low Energy. Readings sync automatically when the app is open and the",
+              "page": 5,
+              "content_hash": "c0c9fd777f5d52dc3a40dc5e6fe2b5fe7d8271ea6978b5de23a35b7d88648997"
+            },
+            {
+              "text": "device is within range; there is no manual \"sync now\" trigger in firmware",
+              "page": 5,
+              "content_hash": "411ac16225aa8a1dd6d85bbb7c40a2783f982aedfc87c4a30b896bcc20ac8108"
+            },
+            {
+              "text": "version 1.x.",
+              "page": 5,
+              "content_hash": "c3c4cf539ee2b839de1b70c750f0b36a6d24b43a282093fe2f5cccca71bb954e"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_20",
+      "heading": "6. Maintenance and Cleaning",
+      "number": "6",
+      "title": "Maintenance and Cleaning",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 5,
+      "content": [],
+      "children": [
+        {
+          "id": "node_21",
+          "heading": "6.1 Cleaning Instructions",
+          "number": "6.1",
+          "title": "Cleaning Instructions",
+          "level": 2,
+          "parent_id": "node_20",
+          "page_start": 5,
+          "content": [
+            {
+              "text": "Wipe the device body and cuff exterior with a soft, dry cloth or one lightly",
+              "page": 5,
+              "content_hash": "ba00499ed7b31a10a619cc91e64c3126cc1265d0f5e31883c3028798060e66a3"
+            },
+            {
+              "text": "dampened with water. Do not submerge the device or cuff, and do not",
+              "page": 5,
+              "content_hash": "f54a06d7dca86a89ac95c069fbf6ee98ffde3151945a6964580206d38aa66fea"
+            },
+            {
+              "text": "use alcohol, solvents, or abrasive cleaners on the display.",
+              "page": 5,
+              "content_hash": "34d7b9a9b7393a75e270558590b78b94b4950962ac5a7de4753acf99d1d34cb7"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_22",
+          "heading": "6.2 Calibration",
+          "number": "6.2",
+          "title": "Calibration",
+          "level": 2,
+          "parent_id": "node_20",
+          "page_start": 5,
+          "content": [
+            {
+              "text": "Anthropic recommends professional recalibration every 2 years or after",
+              "page": 5,
+              "content_hash": "41e4c731abda212b3977e2c7f302831a73d15fdf6a30789cd6ea7a4f7556c932"
+            },
+            {
+              "text": "any drop or significant impact. The device does not perform",
+              "page": 5,
+              "content_hash": "5381bf6ae090627ab2ed75430607007df294bfb5b345d9043d412195a29d728a"
+            },
+            {
+              "text": "self‐calibration; there is no field calibration procedure available to end",
+              "page": 5,
+              "content_hash": "efae84f481e2e57676efed5df092730f767a8e958f17012af60a235eb96980e0"
+            },
+            {
+              "text": "users.",
+              "page": 5,
+              "content_hash": "f02b9eb5dba3c97ddf712db7e6a65be5b4deb9e5d1cc73ec93413f48f0a704e8"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_23",
+      "heading": "7. Troubleshooting",
+      "number": "7",
+      "title": "Troubleshooting",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 5,
+      "content": [],
+      "children": [
+        {
+          "id": "node_24",
+          "heading": "7.1 Error Codes",
+          "number": "7.1",
+          "title": "Error Codes",
+          "level": 2,
+          "parent_id": "node_23",
+          "page_start": 6,
+          "content": [
+            {
+              "text": "If a code from Section 4.2 appears and persists after following the",
+              "page": 6,
+              "content_hash": "191ed2962bef21491313b17b517d0412a0e461cc14a2c9f4a1b9c1d7fcd5cc6d"
+            },
+            {
+              "text": "on‐screen retry prompt twice, users should discontinue use and contact",
+              "page": 6,
+              "content_hash": "2cd6e5367f5dadda9e7639a7e32291df29c601fa1695e89f0919b4b7a3b1fc61"
+            },
+            {
+              "text": "CardioTrack support rather than attempting further self‐diagnosis,",
+              "page": 6,
+              "content_hash": "b594174ad26a9b16958e1468722ab33a3af3aa8191912cfe40f6d4187ad7681c"
+            },
+            {
+              "text": "particularly for E5, which indicates an internal sensor fault.",
+              "page": 6,
+              "content_hash": "462c280242c3ee1df3cb57996eb2cbfb0dc60c944c0afa6bb1c759308722da91"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "node_25",
+          "heading": "7.2 Inconsistent Readings",
+          "number": "7.2",
+          "title": "Inconsistent Readings",
+          "level": 2,
+          "parent_id": "node_23",
+          "page_start": 6,
+          "content": [
+            {
+              "text": "Inconsistent readings between measurements are most commonly",
+              "page": 6,
+              "content_hash": "74cb4a445c018e8811dc644ebd113af245593194419e5e1aa907fd78d151c682"
+            },
+            {
+              "text": "caused by cuff mispositioning, talking or moving during measurement, or",
+              "page": 6,
+              "content_hash": "c2b6927edad154a260794e2ba22d97985a8892c215b7cc32b1f39afcc0d769f1"
+            },
+            {
+              "text": "measuring within 30 minutes of exercise, caffeine, or smoking; the",
+              "page": 6,
+              "content_hash": "1ec3f27dbc09ea20c13ba0f88814228f6470d453cbce8545c5048cd8728e3020"
+            },
+            {
+              "text": "manual recommends resting quietly for 5 minutes before remeasuring.",
+              "page": 6,
+              "content_hash": "8aab96578ad74840d614d9daf307db7d501c11b4cfecd87fb91536bba7a48a65"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "node_26",
+      "heading": "8. Regulatory Information",
+      "number": "8",
+      "title": "Regulatory Information",
+      "level": 1,
+      "parent_id": "root",
+      "page_start": 6,
+      "content": [],
+      "children": [
+        {
+          "id": "node_27",
+          "heading": "8.1 Classification",
+          "number": "8.1",
+          "title": "Classification",
+          "level": 2,
+          "parent_id": "node_26",
+          "page_start": 6,
+          "content": [
+            {
+              "text": "The CT‐200 is classified as a Class II medical device under applicable",
+              "page": 6,
+              "content_hash": "eeaf8241f27236f7e61efcc19a8c32ad066145c2bc10853dca28fa08f0752e22"
+            },
+            {
+              "text": "regulations for non‐invasive blood pressure monitors and has been",
+              "page": 6,
+              "content_hash": "c2302d49e0650044ee0d83a4631e2a74d1aa6d2178da74f85775b358c4d863eb"
+            },
+            {
+              "text": "validated against relevant clinical accuracy standards for oscillometric",
+              "page": 6,
+              "content_hash": "2918fe0383f52f25db98c21fbfa3bc59bb04884db9c37839d31c1064161635c3"
+            },
+            {
+              "text": "devices.",
+              "page": 6,
+              "content_hash": "9d06cb17106b5efa588b9b58535249c37cba4955ef2a3d139a30e10822be129a"
+            }
+          ],
+          "children": []
+        }
+      ]
+    }
+  ],
+  "source_file": "ct200_manual.pdf",
+  "source_hash": "2aa1a69bdd6ae13c635d5c34e5670dbf74dd7a039be0125cfd6eae4dff364bec"
+}
